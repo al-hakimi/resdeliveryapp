@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="delivery_db@localhost" uuid="117c9711-61c5-4e81-872c-93b64e8417ec">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/delivery_db</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="MySQL - delivery_db@localhost" uuid="45659da9-2129-4ae0-b8f0-03c73244e80a">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/delivery_db</jdbc-url>
+    </data-source>
+  </component>
+</project>
